@@ -49,3 +49,15 @@
   </li>
 </ul>
 </details>
+
+<details>
+<summary><a href="./4-delete_dnodeint/">4. Double linked list [C]</a></summary><br>
+<a href='https://postimg.cc/Jy1cBD56' target='_blank'><img src='https://i.postimg.cc/MGBsN1MS/image.png' border='0' alt='image'/></a>
+<ul>
+  <li>Links from screenshot
+  <ul>
+      <li><a href="https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/tree/master/4-delete_dnodeint">Source code</a></li>
+  </ul>
+  </li>
+</ul>
+</details>
